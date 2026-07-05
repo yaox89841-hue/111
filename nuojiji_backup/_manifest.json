@@ -1,7 +1,7 @@
 {
   "version": 6,
-  "timestamp": 1782838442398,
-  "appVersion": "6.9.1 (2026.06.21)",
+  "timestamp": 1783274593363,
+  "appVersion": "6.9.7 (2026.06.26)",
   "tables": [
     "characters",
     "worldBooks",
@@ -51,6 +51,7 @@
     "wallpapers",
     "whiteDogData",
     "isekaiSaves",
+    "isekaiPresets",
     "pomodoroData",
     "regexRules",
     "mcpServers",
@@ -61,10 +62,8 @@
     "healthEntries",
     "healthProfile",
     "homelandState",
+    "fontStore",
     "_migration"
   ],
-  "completedTables": {
-    "worldBooks": true
-  },
   "inProgress": true
 }
